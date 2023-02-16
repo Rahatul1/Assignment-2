@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* header section */
+header {
+    background-color: #fff0de;
+    padding: 30px 240px;
+}
+
+.header-part {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.h-title {
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.header-list {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+/* brand-title */
+.brand-title {
+    padding-top: 150px;
+    text-align: center;
+    font-size: 64px;
+    font-weight: 700;
+}
+
+.brand-description {
+    padding: 0 220px;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #727272;
+}
+
+.brand-button {
+    margin: auto;
+    display: flex;
+    margin-top: 25px;
+    padding: 15px 20px;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+    background-color: #FF900E;
+    border-radius: 8px;
+    color: #FFFFFF;
+}
+
+.h-banner {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
